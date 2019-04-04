@@ -2,7 +2,7 @@
 
 usrname=Osman  #usrname adli degiskene kullanici adi atadik
 
-pssword=FDSAqwer150	#pssword adli degiskene sifremizi temsil edecek bir ifade atadik
+pssword=FDSA	#pssword adli degiskene sifremizi temsil edecek bir ifade atadik
 
 read -p 'Kullanici Adi: ' unameinput 	#Kullanici adi icin giris aldik
 read -sp 'Sifre: ' psswdinput		#Kullanici sifresi icin giris aldik
